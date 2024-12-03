@@ -1,0 +1,24 @@
+.margin{
+    margin: 2px solid red;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    margin-left: 2px;
+    margin-right: 2px;
+
+}
+
+.border
+{
+    
+    border: 2px solid yellow;
+    border-radius: 3px;
+    border-style: ridge;
+}
+.padding{
+    border: 2px solid blue;
+    padding:3px;
+    padding-left: 2px;
+    padding-bottom: 2px;
+    padding-right: 2px;
+    padding-top: 2px;
+}

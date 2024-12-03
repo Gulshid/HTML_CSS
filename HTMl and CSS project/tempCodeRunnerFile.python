@@ -1,0 +1,7 @@
+def _init(self,x):
+    {
+       self. x*x
+    }
+    
+print("The area of length and width is ",_init(22))
+    

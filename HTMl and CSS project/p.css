@@ -1,0 +1,17 @@
+.p{
+    background-color: chocolate;
+    height: 250px;
+    width: 500px;
+    text-align: center;
+    float: center;
+    color: blueviolet;
+    text-decoration: double;
+    text-transform: uppercase;
+    text-justify: newspaper;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: larger;
+    font-weight: bolder;
+    font-style: italic;
+    word-spacing: 2px;
+    letter-spacing: 2px;
+}

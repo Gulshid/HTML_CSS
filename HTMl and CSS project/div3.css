@@ -1,0 +1,23 @@
+.ma{
+    background-color: black;
+    height: 540px;
+    width: 1000px;
+    float: right;
+}
+#parent_row1{
+    background-color: rgba(0, 0, 0, 0.139);
+    height: 200px;
+    width: 1000px;
+    float: right;
+
+}
+
+body{
+    background-color: brown;
+
+}
+.m1{
+    background-color:grey;
+    text-align: center;
+    
+}

@@ -1,0 +1,11 @@
+.bgcolor{
+    background-color: rgb(3, 97, 229);
+    background-image: url(images.jpeg.jpg);
+    background-position:top;
+    height: 50px;
+    width: 100px;
+   
+    background-attachment:fixed;
+    color: blueviolet;
+  
+}

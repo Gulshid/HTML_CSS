@@ -1,0 +1,19 @@
+.s1:hover{
+    background-color: cornflowerblue;
+    height: 50px;
+    width: 50px;
+    color: brown;
+    box-shadow: darkcyan;
+    box-sizing: border-box;
+    border: 2px solid black;
+    text-shadow: 3px;
+    box-shadow: khaki;
+    transform: translate(0px.100px);
+
+}
+.s1{
+    background-color: rgb(11, 59, 147);
+    height: 50px;
+    width: 50px;
+    color: rgb(85, 214, 21);
+}

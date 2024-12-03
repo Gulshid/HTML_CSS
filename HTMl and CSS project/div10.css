@@ -1,0 +1,78 @@
+.position{
+    margin: auto;
+    transform: translate(150px,50px);
+    
+   
+}
+.p1{
+    background-color: gray;
+    height: 1000px;
+    width: 1000px;
+    column-count: 10;
+    column-gap: 2;
+    column-fill: balance;
+    column-rule-color: blue;
+    column-rule-style: groove;
+    column-rule-width: 4px;
+}
+
+.header{
+    position: sticky;
+    width: 100%;
+    height: 20px;
+    border: 3px solid red;
+    background-color: blueviolet;
+    top: 6px;
+}
+#col1{
+    height: 50px;
+    width: 50px;
+    border: 2px solid red;
+
+    float:left;
+    position: sticky;
+    text-align: center;
+    text-shadow: 0px 0px 10px rgb(228, 15, 125);
+    position: absolute;
+    background-color: blueviolet;
+    color: white;
+    top: 50px;
+    bottom: 50px;
+    left: 50px;
+    right: 50px;
+}
+#col2{
+    top: 30px;
+    bottom: 30px;
+    position: fixed;
+    left: 30px;
+    right: 30px;
+    height: 50px;
+    width: 50px;
+    border: 2px solid rgb(3, 221, 14);
+    float:left;
+    text-align: center;
+    position: absolute;
+    background-color: rgb(35, 5, 156);
+    color: white;
+    text-shadow: 0px 0px 10px rgb(228, 15, 125);
+}
+
+
+#col3{
+
+    height: 50px;
+    width: 50px;
+    border: 2px solid rgb(222, 23, 240);
+    float:left;
+    text-align: center;
+    position: absolute;
+    top: 100px;
+    bottom: 100px;
+    left: 200px;
+    right: 200px;
+    background-color: rgb(205, 226, 43);
+    color: white;
+    text-shadow: 0px 0px 10px rgb(10, 238, 113);
+}
+

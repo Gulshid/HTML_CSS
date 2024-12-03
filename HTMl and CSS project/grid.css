@@ -1,0 +1,11 @@
+.grid{
+    grid-column: 10px;
+    height: 100px;
+    width: 100px;
+    grid-row: 5px;
+    grid-area: span;
+    background-color: greenyellow;
+    margin: auto;
+    border: 3px solid gold;
+    border-radius: 100px;
+}

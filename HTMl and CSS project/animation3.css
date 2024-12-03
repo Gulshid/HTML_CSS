@@ -1,0 +1,62 @@
+.Animation_propert{
+    height: 600px;
+    width:1200px;
+    border: 3px solid black;
+    border-radius: 3px;
+    margin: auto;
+    position: relative;
+    
+}
+.Animation_propert2{
+    background-color: blueviolet;
+    border: 3px solid blue;
+    border-radius: 100px;
+    height: 200px;
+    width: 200px;
+    animation-duration: 3s;
+    position: absolute;
+    animation-name: Animation_propert2;
+    animation-delay: initial;
+    animation-direction: alternate-reverse;
+    animation-timing-function: calc(ease);
+    animation-iteration-count: calc(10);
+
+
+}
+
+@keyframes Animation_propert2{
+    0%{
+        top: 0px;
+        left: 0px;
+        background-color: darkolivegreen;
+
+    }
+    25%{
+        top: 0px;
+        left: 1000px;
+        background-color: rgb(171, 11, 196);
+
+    }
+    50%{
+        top: 400px;
+       left: 1000px;
+        background-color: rgb(245, 245, 9);
+
+    }
+    75%{
+        top: 400px;
+        left: 0px;
+       
+        background-color: rgb(66, 14, 168);
+
+    }
+    100%{
+        top: 0px;    
+        left: 0px;
+    
+        background-color: rgb(14, 241, 150);
+
+    }
+
+
+}

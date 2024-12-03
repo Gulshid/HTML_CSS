@@ -1,0 +1,15 @@
+.main{
+    background-color:gray;
+    height: 150px;
+    width: 300px;
+    float: center;
+    text-align: center;
+    text-decoration: dotted;
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-weight: 800;
+    font-style: oblique;
+    color: darkcyan;
+    
+}

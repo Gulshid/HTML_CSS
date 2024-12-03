@@ -1,0 +1,43 @@
+.main{
+    background-color: darksalmon;
+    height: 800px;
+    width: 600px;
+    border: 3px solid blue;
+    border-radius: 10px;
+    box-shadow: 0px 0px 100px blueviolet;
+    margin: auto;
+
+}
+
+.parent{
+    background-color: white;
+    height:600px;
+    width: 400px;
+    margin: auto;
+    margin-top: 80px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-style: italic;
+   font-weight: bolder;
+   font-size: medium;
+    border: 3px solid red;
+    border-radius: 10px;
+    color: maroon;
+    text-align: center;
+    text-decoration: double;
+    text-shadow: 0px 0px 200px blue ;
+
+}
+
+.parent input{
+    border: 3px solid blueviolet;
+    border-radius: 10px;
+    height: 30px ;
+    width: 350px;
+    margin-bottom: 30px;
+}
+
+.parent textarea{
+    border: 3px solid blue;
+    border-radius: 10px ;
+    margin-left: -180px;
+}
